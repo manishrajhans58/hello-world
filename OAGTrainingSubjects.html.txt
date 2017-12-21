@@ -1,0 +1,13 @@
+<html>
+	<head>
+		<title>OAG Training Subjects</title>
+	</head>
+	<body>
+		<ul>
+			<li>MS Excel</li>
+			<li>MS Word</li>
+			<li>MS Powerpoint</li>
+			<li>MS Project</li>
+		</ul>
+	</body>
+</html>
